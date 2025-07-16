@@ -74,7 +74,7 @@ namespace common
     // Default Access Modifier Inside The Interface "Public"
 
 
-    internal class TypeA
+    internal class  TypeA
     {
         TypeA typeA = new TypeA();
 
